@@ -1,0 +1,7 @@
+python=2.7.0
+pytorch=0.3
+torchvision=0.3.0
+numpy=1.18.4
+tqdm=4.46.0
+nltk=3.5.0
+pycocotools=2.0.0
