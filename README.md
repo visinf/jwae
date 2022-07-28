@@ -1,8 +1,8 @@
 # Joint Wasserstein Autoencoders for Aligning Multimodal Embeddings
 
 <p align="center">
-  <img width="450" height="200" src="./assets/teaser_before.png" hspace="30">
-  <img width="350" height="200" src="./assets/teaser_ours.png" hspace="30">
+  <img width="450" height="200" src="./assets/teaser_before.png" hspace="0">
+  <img width="350" height="200" src="./assets/teaser_ours.png" hspace="0">
 </p>
 
 This repository is the PyTorch implementation of the paper:
