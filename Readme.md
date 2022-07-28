@@ -1,8 +1,8 @@
 # Joint Wasserstein Autoencoders for Aligning Multimodal Embeddings
 
 <p align="center">
-  <img width="320" height="200" src="./assets/teaser_before.pdf" hspace="30">
-  <img width="320" height="200" src="./assets/teaser_ours.pdf" hspace="30">
+  <img width="320" height="200" src="./assets/teaser_before.png" hspace="30">
+  <img width="320" height="200" src="./assets/teaser_ours.png" hspace="30">
 </p>
 
 This repository is the PyTorch implementation of the paper:
@@ -78,4 +78,5 @@ evaluation.evalrank("$CHECKPOINT_PATH", data_path="$DATA_PATH", split="test")
   booktitle = {ICCV Workshop on Cross-Modal Learning in Real World},
   title = {Joint {W}asserstein Autoencoders for Aligning Multi-modal Embeddings},
   year = {2019}
-}
+}# jwae
+Joint Wasserstein Autoencoders for Aligning Multimodal Embeddings (ICCV 2019 Workshop on Cross-Modal Learning in Real World)
